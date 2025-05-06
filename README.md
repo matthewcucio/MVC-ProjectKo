@@ -7,3 +7,5 @@ It is intended for learning purposes and showcases the separation of concerns be
 ## 🧩 Components
 
 - **Model**: Handles the data and business logic (e.g., retrieving, storing, and updating data).
+- **View**: Displays the data (HTML, CSS) and interacts with the user.
+- **Controller**: Acts as a middleman between the Model and View, handling user input and updating the model or view accordingly.
